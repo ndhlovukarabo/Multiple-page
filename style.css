@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background: #f8e8a6;
+    display: block;
+    margin: 8px;
+}
+.croissant-image {
+    max-width: 40%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
+a{
+
+    justify-content:space-around;
+}
+
